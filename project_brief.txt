@@ -1,0 +1,7 @@
+Damani Gatewood's Resume
+Printing resumes can be an inconvenience, and when you need to get someone your resume
+on the go you have to wait until you are near your files so that you can send it as an email.
+How great would it be if you could just send off a link to your resume in website form?
+I plan on taking the actual page of my resume, adding my portfolio, and slight interactions
+so that others can view my resume in website form, and also be able to click on my portfolio
+straight from the link. 
